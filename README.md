@@ -1,5 +1,6 @@
 ## Olga Demina
-##Portfolio project
+
+## Portfolio project
 
 #### You should have installed:
 * npm 5
