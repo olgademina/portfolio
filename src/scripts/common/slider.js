@@ -3,7 +3,7 @@ const next = document.getElementById('next');
 const previous = document.getElementById('previous');
 const controls = document.querySelectorAll('.controls');
 
-let currentSlide = 0;
+let currentSlide = 0
 
 // go to slide # n (beginning from 0)
 function goToSlide(n){

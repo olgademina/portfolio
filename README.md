@@ -1,10 +1,11 @@
-## Gulp 12-2017
+## Olga Demina
+##Portfolio project
 
-#### Для работы сборки у вас должны быть установлены
+#### You should have installed:
 * npm 5
 * gulp-cli
 
-#### Как установить проект
+#### Getting started:
 1. clone this repo
-2. npm i
-3. gulp
+2. npm install
+3. run 'gulp' to start

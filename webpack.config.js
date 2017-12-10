@@ -10,6 +10,18 @@ const config = {
             sourceMap: true
         })
     ]
+
 };
 
 module.exports = config;
+
+module: {
+    rules: [
+        {
+            test: /\.js$/,
+            enforce: "pre",
+            loader: "eslint-loader",
+
+        }
+    ]
+};
